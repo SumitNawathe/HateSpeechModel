@@ -1,10 +1,10 @@
 # HateSpeechModel
 
 ### Contributors
-Sumit Nawathe
-Amrit Magesh
-Anthony Ma
-Nadiyah Williams
+- Sumit Nawathe
+- Amrit Magesh
+- Anthony Ma
+- Nadiyah Williams
 
 ### Project Summary
 This is the final product produced by the TSI Sprinterns working at Two Six Tech over the 2020/1 Winter semester.
